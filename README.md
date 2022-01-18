@@ -1,3 +1,3 @@
-# ModelWrappe# ModelWrapper
+# ModelWrapper
 
-all elementary mi functionalities in one script
+all elementary ml functionalities in one script
